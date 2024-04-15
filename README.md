@@ -7,14 +7,14 @@ Bathrooms.csv
 Hospitals.csv
 Crime.csv
 
-These csv files contain the data related to respetive items related to Chicago
+These CSV files contain the data related to respective facilities in Chicago
 
 CrimeLocalityFinder.py
 HospitalFinder.py
 WashroomFinder.py
 WashroomFinderCoordinates.py
 
-These python files include program to get the closest facility details by reading the data in the CSV files
+These Python files include a program to get the closest facility details by reading the data in the CSV files
 
 App.py
 
